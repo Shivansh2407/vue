@@ -223,8 +223,8 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 
 <h4 align="center">Platinum</h4>
 
-<a href="https://opencollective.com/vuejs/tiers/platinum-sponsors/0/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/platinum-sponsors/0/avatar.svg?sanitize=true"></a>
-<a href="https://opencollective.com/vuejs/tiers/platinum-sponsors/1/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/platinum-sponsors/1/avatar.svg?sanitize=true"></a>
+<a href="https://opencollective.com/vuejs/tiers/platinum-sponsors/0/website" align="center" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/platinum-sponsors/0/avatar.svg?sanitize=true"></a>
+<a href="https://opencollective.com/vuejs/tiers/platinum-sponsors/1/website" align="center" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/platinum-sponsors/1/avatar.svg?sanitize=true"></a>
 
 <h4 align="center">Gold</h4>
 
